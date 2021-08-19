@@ -9,8 +9,9 @@ My Name's Ricardo Figueroa and I'm a Full-Stack Web Developer in San Antonio, TX
 - 🌱 I’m currently learning Spring
 - 👯 I’m looking to collaborate on anything that can help me grow as a developer
 
-- 📫 You can reach me at: https://www.linkedin.com/in/ricardo-figueroa-020/
--   or at my email at: RfigueroaJ.Figueroa020@gmail.com
+You can reach me at:
+- 👋 Linkedin: https://www.linkedin.com/in/ricardo-figueroa-020/
+- 📫 Email: RfigueroaJ.Figueroa020@gmail.com
 
 
 
