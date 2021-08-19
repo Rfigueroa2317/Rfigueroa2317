@@ -11,3 +11,6 @@ My Name's Ricardo Figueroa and I'm a Full-Stack Web Developer in San Antonio, TX
 
 - 📫 You can reach me at: https://www.linkedin.com/in/ricardo-figueroa-020/
 -   or at my email at: RfigueroaJ.Figueroa020@gmail.com
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Rfigueroa2317&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rfigueroa2317&layout=compact)
