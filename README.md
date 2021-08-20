@@ -14,8 +14,4 @@ You can reach me at:
 - 📫 Email: RfigueroaJ.Figueroa020@gmail.com
 
 
-
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Rfigueroa2317&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rfigueroa2317&layout=compact)
